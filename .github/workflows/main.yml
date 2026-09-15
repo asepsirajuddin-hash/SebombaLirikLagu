@@ -1,5 +1,4 @@
-pi name: Build Sebomba Lirik Lagu APK
-
+name: Build Sebomba Lirik Lagu APK
 on:
   workflow_dispatch:
 
